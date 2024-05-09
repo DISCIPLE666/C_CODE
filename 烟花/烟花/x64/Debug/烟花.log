@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\DOTE\vs2022\烟花\烟花\源.cpp(63,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  烟花.vcxproj -> D:\DOTE\vs2022\烟花\x64\Debug\烟花.exe

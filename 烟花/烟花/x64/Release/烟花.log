@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\DOTE\vs2022\烟花\烟花\源.cpp(63,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  1 of 18 functions ( 5.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  烟花.vcxproj -> D:\DOTE\vs2022\烟花\x64\Release\烟花.exe

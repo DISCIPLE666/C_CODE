@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "学生综合测评系统", "学生综合测评系统\学生综合测评系统.vcxproj", "{97E50997-AC48-4FE2-B3D3-D110E88E922B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E50997-AC48-4FE2-B3D3-D110E88E922B}.Debug|x64.ActiveCfg = Debug|x64
+		{97E50997-AC48-4FE2-B3D3-D110E88E922B}.Debug|x64.Build.0 = Debug|x64
+		{97E50997-AC48-4FE2-B3D3-D110E88E922B}.Debug|x86.ActiveCfg = Debug|Win32
+		{97E50997-AC48-4FE2-B3D3-D110E88E922B}.Debug|x86.Build.0 = Debug|Win32
+		{97E50997-AC48-4FE2-B3D3-D110E88E922B}.Release|x64.ActiveCfg = Release|x64
+		{97E50997-AC48-4FE2-B3D3-D110E88E922B}.Release|x64.Build.0 = Release|x64
+		{97E50997-AC48-4FE2-B3D3-D110E88E922B}.Release|x86.ActiveCfg = Release|Win32
+		{97E50997-AC48-4FE2-B3D3-D110E88E922B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0974BE1-C05D-4E9B-89FC-571E3433A6BD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\DOTE\vs2022\猜大小\猜大小\源.cpp(7,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\DOTE\vs2022\猜大小\猜大小\源.cpp(7,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  源3.cpp
+  正在生成代码...

@@ -1,0 +1,3 @@
+﻿  源.c
+D:\DOTE\vs2022\找topk\找topk\源.c(11,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  找topk.vcxproj -> D:\DOTE\vs2022\找topk\x64\Debug\找topk.exe

@@ -1,0 +1,6 @@
+﻿  源.c
+D:\DOTE\vs2022\单链表\单链表\标头.h(118,15): warning C4047: “函数”:“sl **”与“sl *”的间接级别不同
+D:\DOTE\vs2022\单链表\单链表\标头.h(118,15): warning C4024: “sltpopfront”: 形参和实参 1 的类型不同
+D:\DOTE\vs2022\单链表\单链表\标头.h(118,20): warning C4020: “sltpopfront”: 实参太多
+D:\DOTE\vs2022\单链表\单链表\标头.h(163,7): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  单链表.vcxproj -> D:\DOTE\vs2022\单链表\x64\Debug\单链表.exe

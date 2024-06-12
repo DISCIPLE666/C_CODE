@@ -1,0 +1,6 @@
+﻿  源.c
+D:\DOTE\vs2022\A队列\A队列\源.c(30,10): warning C4133: “初始化”: 从“Qdata *”到“Qnode *”的类型不兼容
+D:\DOTE\vs2022\A队列\A队列\源.c(52,15): warning C4133: “=”: 从“Qnode *”到“Qdata *”的类型不兼容
+D:\DOTE\vs2022\A队列\A队列\源.c(53,15): warning C4133: “=”: 从“Qnode *”到“Qdata *”的类型不兼容
+D:\DOTE\vs2022\A队列\A队列\源.c(64,16): error C2223: “->next”的左侧必须指向结构/联合
+D:\DOTE\vs2022\A队列\A队列\源.c(65,15): warning C4133: “=”: 从“Qnode *”到“Qdata *”的类型不兼容
